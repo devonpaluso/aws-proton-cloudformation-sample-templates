@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "8ed5d936-7088-467d-bdac-3d92718c3e20",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:535306282211:environment/devon-app-dev",
+    "templateArn" : "arn:aws:proton:us-east-1:535306282211:environment-template/devon-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1"
+  }
+}
